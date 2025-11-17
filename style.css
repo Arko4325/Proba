@@ -5,6 +5,22 @@ body {
 }
 
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: hsl(0, 0%, 83%);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: hsl(0, 0%, 83%);
+  margin-top: 40px;
+}
+
+
 .hero {
   display: flex;
   justify-content: space-between;
